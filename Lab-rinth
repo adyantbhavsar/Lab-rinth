@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Nonprofit</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; }
+        header { background: #4CAF50; color: white; padding: 20px; font-size: 24px; }
+        section { padding: 20px; max-width: 800px; margin: auto; }
+        .button { background: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; display: inline-block; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <header>Your Nonprofit</header>
+    <section>
+        <h2>About Us</h2>
+        <p>We are a passionate group dedicated to making a difference. Our mission is to create meaningful change through our initiatives.</p>
+    </section>
+    <section>
+        <h2>Our Mission</h2>
+        <p>We strive to [insert your mission here]. Join us in making a positive impact.</p>
+    </section>
+    <section>
+        <h2>Get Involved</h2>
+        <p>Want to be a part of our cause? Contact us and learn how you can help.</p>
+        <a href="mailto:your@email.com" class="button">Contact Us</a>
+    </section>
+</body>
+</html>
